@@ -34,8 +34,6 @@ function startButton() //Button onclick
 	// Get the modal
 	modal = document.getElementById('myModal');
 
-
-	a = new Date();
 	modal.style.display = "block";
 	//Display the question
 	btn.style.visibility = "hidden";
